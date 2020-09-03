@@ -1,7 +1,7 @@
 ## Informações
 * **Disciplina:** Desenvolvimento de Aplicativos Móveis Híbridos (Android)
-* **Dia:** Quinta-feira
-* **Período:** Manhã
+* **Dia:** Quarta-feira
+* **Período:** Noite
 
 ## Descrição
 * Este material é uma iniciativa independente para auxiliar os alunos, visando facilitar o acesso e o acompanhamento das atividades ministradas via **Google Meet**. Portanto, **não se caracteriza como material oficial da instituição.**
